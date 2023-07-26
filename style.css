@@ -389,6 +389,7 @@ form{
         flex-direction: column;
         padding-left: 28px;
         justify-content: center;
+        padding-top: 0;
     }
     .fleet_carousel{
         left: 28px;
