@@ -352,14 +352,14 @@ form{
     .left{
         display:none;
     }
-     .email{
-        width: 80vw;
+    .email{
+        width: 90vw;
     }
     .form-group .upform{
-        width: 80vw;
+        width: 90vw;
     }
     .form-group textarea{
-        width: 80vw;
+        width: 90vw;
     }
     .quote_btn{
         position: relative;
