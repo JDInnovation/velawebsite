@@ -343,7 +343,7 @@ form{
     .menu{
         display: none;
     }
-    .hero_van{
+     .hero_van{
         height: 250px;
         top: 32vh;
     }
@@ -362,7 +362,7 @@ form{
     .quote_btn{
         position: relative;
         left: 0;
-        top: 80vh;
+        top: 75vh;
     }
     .hero{
         display: flex;
