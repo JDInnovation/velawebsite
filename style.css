@@ -331,8 +331,10 @@ form{
     }
 }
 @media screen and (max-width: 500px){
-    header{
+      header{
         justify-content: center;
+        position: relative;
+        background-color: transparent;
 
     }
     .banner_txt{
